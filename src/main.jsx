@@ -24,8 +24,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </CookiesProvider>
   </Router>
 );
-// jainam
-//jainam tated 
-//Pakshal Tated
-
-//jainam
